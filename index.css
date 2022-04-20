@@ -12,7 +12,7 @@ html {
     font-size: 1.6rem;
     line-height: 1.5;
     text-align: center;
-    color: #333;
+    color: rgb(3,3,3);
     margin: 0;
   }
   
@@ -44,7 +44,7 @@ html {
     margin: 30px 8px;
     padding: 15px;
     border-radius: 5px;
-    background: #eee;
+    background: rgb(17, 208, 233);
   }
   
   @media (max-width: 460px) {
